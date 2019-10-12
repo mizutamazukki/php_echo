@@ -4,7 +4,6 @@
         <title></title>
     </head>
     <body>
-        <h1>aaa<?php echo $str; ?></h1>
+        <h1><?php echo $str; ?></h1>
     </body>
 </html>
-© 2019 GitHub, Inc.
